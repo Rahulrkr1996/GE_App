@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#db9cfd</color>
+    <color name="colorPrimaryDark">#007f9b</color>
+    <color name="colorAccent">#76d9f2</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="blue">#59a9ff</color>
+    <color name="grey">#b7b7b7</color>
+    <color name="red">#f3ff1100</color>
+    <!-- fan level colors -->
+    <color name="fan_low">#f3848484</color>
+    <color name="fan_high1">#f1e505</color>
+    <color name="fan_high2">#f200ff</color>
+    <color name="fan_high3">#ff6200</color>
+    <color name="fan_high4">#ff0051</color>
+    <color name="fan_high5">#a100ff</color>
+</resources>
